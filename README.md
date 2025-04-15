@@ -1,4 +1,4 @@
-# Laundry App 
+# Rental and Laundry App 
 
 * This a react native application that enables users to book online Rental nad laundry Services .
 * Implemented a proximity service for suggesting nearest Stores using
@@ -48,7 +48,7 @@ Haversine formula and increased store visibility by 90%
   ##  Get into the project repository 
    
    ```javascript
-   cd AwesomeProject01
+   cd Linengrass-app
    
    ```
    
