@@ -164,7 +164,7 @@ const HomeScreen = () => {
   return (
     <View style={styles.container}>
       <ImageBackground 
-        source={{ uri: 'https://goodhomes.wwmindia.com/content/2020/aug/system-of-laundry-1596279172.jpg' }}
+        source={{ uri: 'https://goodhomes.wwmindia.com/content/2020/aug/system-of-linengrass-1596279172.jpg' }}
         style={styles.backgroundImage}
         resizeMode="cover"
       >
